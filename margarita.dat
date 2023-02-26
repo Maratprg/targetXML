@@ -1,0 +1,42 @@
+<my_root rootribute_head="rootribute_body" rootribute_head="rootribute_body" rootribute_head="rootribute_body">
+	<first_child>
+	f
+	</first_child>
+	<first_child>
+	g
+	</first_child>
+	<first_child>
+	h
+	</first_child>
+	<SpicerTest>
+		<Spicer_child>
+		n
+		</Spicer_child>
+		<delim delim n_attrbute="delim_atrr_belly" delim n_attrbute="delim_atrr_belly" delim n_attrbute="delim_atrr_belly">
+			<delim_child>
+			a
+			</delim_child>
+			<delim_child>
+			b
+			</delim_child>
+			<delim_child>
+			c
+			</delim_child>
+			<delim_child>
+			d
+			</delim_child>
+			<delim_child>
+			e
+			</delim_child>
+		delim_value
+		</delim>
+		<Spicer_child>
+		p
+		</Spicer_child>
+	SpicerTest_value
+	</SpicerTest>
+	<first_child>
+	j
+	</first_child>
+my_root_value
+</my_root>
